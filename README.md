@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning PHP, Javascript, Python, Tailwind CSS
 - 📫 How to reach me Instagram: @agas.kyoyama
-- 😄 Pronouns: Manusia Jawa
+- 😄 Pronouns: Manusia/Jawa
 - ⚡ Fun fact: Cuman pemain Arsip Biru
 
 <!---
