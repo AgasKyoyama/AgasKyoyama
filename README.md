@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AgasKyoyama
 - 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning PHP, Javascript, Python, Tailwind CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: @agas.kyoyama
 - 😄 Pronouns: Manusia Jawa
 - ⚡ Fun fact: fun fact adalah fakta lucu
