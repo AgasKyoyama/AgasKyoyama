@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AgasKyoyama
+- 👋 Hi, I’m @AgasKyouyama
 - 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning Laravel, Javascript, Python, Tailwind CSS
 - 📫 How to reach me Instagram: @agas.kyoyama
