@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AgasKyouyama
-- 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning Laravel, Javascript, Python, Tailwind CSS
+- 👋 Hi, I’m @agasconstellation
+- 👀 I’m interested in Full-stack Facebook Scroller
+- 🌱 I’m currently learning Python
 - 📫 How to reach me Instagram: @agas.kyoyama
 - 😄 Pronouns: Manusia/Jawa
 - ⚡ Fun fact: Cuman pemain Arsip Biru
